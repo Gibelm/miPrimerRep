@@ -10,4 +10,6 @@ Comandos de git
 2) git init: Iniciar repositorio
 3) git add + nombre de archivo: Agregar el archivo
 4) git add . Agregar TODOS los archivos
+5) git config --global user.email "you@example.com"
+6) git config --global user.name "Your Name"
 
