@@ -1,0 +1,13 @@
+Comandos de terminal
+
+1) ls: Indica donde me encuentro 
+2) cd .. Salir, un nivel arriba de la carpeta
+3) cd + nombre del archivo: Para entrar
+
+Comandos de git
+
+1) git status: Estado del repositorio
+2) git init: Iniciar repositorio
+3) git add + nombre de archivo: Agregar el archivo
+4) git add . Agregar TODOS los archivos
+
